@@ -80,7 +80,7 @@ public class Repaso {
                     + "." + "\n\n";
             contador = contador + 1;
             
-            System.out.println("Desea seguir ingresando datos, si es asi presione S");
+            System.out.println("Desea seguir ingresando datos, si no es asi presione S");
             opcion = entrada.nextLine();
             
 
